@@ -1,0 +1,13 @@
+/* Add some basic styling */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333366;
+  }
+  
+  .container {
+    margin-bottom: 30px;
+  }
+  
